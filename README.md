@@ -1,1 +1,2 @@
 # System-room-Cleaning-
+This hostel cleaning system uses basic data structures like 2D arrays to show the layout, hash maps to keep track of cleaning statuses, and queues to manage cleaning requests, making facility management more automatic. The system uses pathfinding methods such as BFS and A* to help robots move around, and it also uses greedy and Hungarian methods to schedule staff in the best way possible. These methods help reduce or get rid of delays caused by paperwork and make the whole process run more smoothly.
